@@ -2,6 +2,10 @@
 
 This is a more up to date and a bit faster version of the ChattyCathy bot that I have recoded. 
 
+# Support Server
+
+https://discord.gg/C2FJ8jF
+
 # Installing
 
 Download the files for the bot. 
